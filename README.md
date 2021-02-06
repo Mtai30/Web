@@ -1,4 +1,3 @@
 # web
-first repository
-Hi lol.
-html/ccs files
+HTML Website
+Read about the 12 Greek Gods of Mount Olympus.
