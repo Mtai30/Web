@@ -1,9 +1,17 @@
 body {
-  background-color: powderblue;
+  background-color: lightgrey;
 }
 h1 {
-  color: blue;
+  color: blueviolet; border: ridge 4mm blueviolet; font: italic 2.4em "Fira Sans", serif;
 }
 p {
-  color: red;
+  color: rgb(76, 0, 148);
+}
+
+h2 {
+  color: purple
+}
+
+ul {
+  color:rebeccapurple;
 }
