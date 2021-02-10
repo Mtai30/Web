@@ -2,7 +2,9 @@ body {
   background-color: lightgrey;
 }
 h1 {
-  color: blueviolet; border: ridge 4mm blueviolet; font: italic 2.4em "Fira Sans", serif;
+  color: blueviolet;
+  border: ridge 4mm blueviolet;
+  font: italic 2.4em "Fira Sans", serif;
 }
 p {
   color: rgb(76, 0, 148);
