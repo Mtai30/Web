@@ -7,17 +7,11 @@ body {
 .body {
   background-color:  #FFF4E9;
   color: #B185A7;
-  border-top: 16px #C3A29E;
+  border-top: 16px double #C3A29E;
   }
   
 .heading {
   background-color: #E8DBC5;
-  margin: 10px solid #E8DBC5;
-  padding: 10px solid #E8DBC5;
-  border: 20px solid #E8DBC5; 
-  margin-top: -10px;
-  margin-left: -10px;
-  margin-right: -10px;
 }
 
 
