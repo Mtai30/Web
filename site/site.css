@@ -1,0 +1,52 @@
+body {
+  background-color: #FFF4E9;
+  color: #B185A7;
+}
+
+
+.body {
+  background-color:  #FFF4E9;
+  color: #B185A7;
+  border: 10px solid #C3A29E; 
+  border-top: 4px dashed #C3A29E;
+  }
+  
+.heading {
+  background-color: #E8DBC5;
+  margin: 10px solid #E8DBC5;
+  padding: 10px solid #E8DBC5;
+  border: 20px solid #E8DBC5; 
+  margin-top: -10px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+
+h1 {
+  color: #8D6B94;
+  border: ridge 4mm #8D6B94;
+  font: italic 2.4em "Times New Roman", serif;
+}
+
+
+p {
+  color: rgb(76, 0, 148);
+}
+
+
+h2 {
+  color: 8D6B94
+}
+
+li {
+  color: #8D6B94;
+}
+
+ul {
+  color: #8D6B94;
+}
+
+a {
+  color: #B185A7; 
+  text-decoration: none;
+}
